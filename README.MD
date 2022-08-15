@@ -1,0 +1,1 @@
+This is a repo to suite the Next-JS frontend masters course
